@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ドッペルゲンガー",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2026-02-06T03:49:09.462196Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドッペルゲンガー",
+      "artist": "Chatmonchy",
+      "has_synced": false,
+      "path": "select/01_ドッペルゲンガー_Chatmonchy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドッペルゲンガー",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/02_ドッペルゲンガー_結束バンド.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドッペルゲンガー",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_ドッペルゲンガー_はるまきごはん.txt"
+    }
+  ]
+}
